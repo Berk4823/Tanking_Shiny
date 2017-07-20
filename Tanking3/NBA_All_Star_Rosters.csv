@@ -1,0 +1,819 @@
+Player,Team,Year,
+Kyrie Irving,Cleveland,2017,Yes
+DeMar DeRozan,Toronto,2017,Yes
+Lebron James,Cleveland,2017,Yes
+Giannis Antetokounmpo,Milwaukee,2017,Yes
+Jimmy Butler,Chicago,2017,Yes
+Isaiah Thomas,Boston,2017,Yes
+Kyle Lowry,Toronto,2017,Yes
+Kemba Walker,Charlotte,2017,Yes
+Paul George,Indiana,2017,Yes
+Kevin Love,Cleveland,2017,Yes
+Paul Millsap,Atlanta,2017,Yes
+John Wall,Washington,2017,Yes
+Carmelo Anthony,New York,2017,Yes
+Kyle Lowry,Toronto,2016,Yes
+Dwyane Wade,Miami,2016,Yes
+Lebron James,Cleveland,2016,Yes
+Paul George,Indiana,2016,Yes
+Carmelo Anthony,New York,2016,Yes
+John Wall,Washington,2016,Yes
+Isiah Thomas,Boston,2016,Yes
+Jimmy Butler,Chicago,2016,Yes
+DeMar DeRozan,Toronto,2016,Yes
+Paul Millsap,Atlanta,2016,Yes
+Chris Bosh,Miami,2016,Yes
+Andre Drummond,Detroit,2016,Yes
+Pau Gasol,Chicago,2016,Yes
+Al Horford,Atlanta,2016,Yes
+John Wall,Washington,2015,Yes
+Kyle Lowry,Toronto,2015,Yes
+Lebron James,Cleveland,2015,Yes
+Carmelo Anthony,New York,2015,Yes
+Pau Gasol,Chicago,2015,Yes
+Chris Bosh,Miami,2015,Yes
+Dwyane Wade,Miami,2015,Yes
+Paul Millsap,Atlanta,2015,Yes
+Kyrie Irving,Cleveland,2015,Yes
+Al Horford,Atlanta,2015,Yes
+Jimmy Butler,Chicago,2015,Yes
+Jeff Teague,Atlanta,2015,Yes
+Kyle Korver,Atlanta,2015,Yes
+Kyrie Irving,Cleveland,2014,Yes
+Dwyane Wade,Miami,2014,Yes
+Paul George,Indiana,2014,Yes
+Carmelo Anthony,New York,2014,Yes
+Lebron James,Miami,2014,Yes
+John Wall,Washington,2014,Yes
+DeMar DeRozan,Toronto,2014,Yes
+Joe Johnson,Brooklyn,2014,Yes
+Chris Bosh,Miami,2014,Yes
+Roy Hibbert,Indiana,2014,Yes
+Paul Millsap,Atlanta,2014,Yes
+Joakim Noah,Chicago,2014,Yes
+Rajon Rondo,Boston,2013,Yes
+Dwyane Wade,Miami,2013,Yes
+Lebron James,Miami,2013,Yes
+Carmelo Anthony,New York,2013,Yes
+Kevin Garnett,Boston,2013,Yes
+Chris Bosh,Miami,2013,Yes
+Tyson Chandler,New York,2013,Yes
+Luol Deng,Chicago,2013,Yes
+Paul George,Indiana,2013,Yes
+Jrue Holiday,Philadelphia,2013,Yes
+Kyrie Irving,Cleveland,2013,Yes
+Joakim Noah,Chicago,2013,Yes
+Lebron James,Miami,2012,Yes
+Carmelo Anthony,New York,2012,Yes
+Dwight Howard,Orlando,2012,Yes
+Derrick Rose,Chicago,2012,Yes
+Dwyane Wade,Miami,2012,Yes
+Chris Bosh,Miami,2012,Yes
+Roy Hibbert,Indiana,2012,Yes
+Paul Pierce,Boston,2012,Yes
+Deron Williams,New Jersey,2012,Yes
+Luol Deng,Chicago,2012,Yes
+Andre Iguodala,Philadelphia,2012,Yes
+Rajon Rondo,Boston,2012,Yes
+Joe Johnson,Atlanta,2012,Yes
+Lebron James,Miami,2011,Yes
+Amar'e Stoudemire,New York,2011,Yes
+Dwight Howard,Orlando,2011,Yes
+Derrick Rose,Chicago,2011,Yes
+Dwyane Wade,Miami,2011,Yes
+Chris Bosh,Miami,2011,Yes
+Ray Allen,Boston,2011,Yes
+Paul Pierce,Boston,2011,Yes
+Rajon Rondo,Boston,2011,Yes
+Kevin Garnett,Boston,2011,Yes
+Al Horford,Atlanta,2011,Yes
+Joe Johnson,Atlanta,2011,Yes
+Lebron James,Cleveland,2010,Yes
+Kevin Garnett,Boston,2010,Yes
+Dwight Howard,Orlando,2010,Yes
+Allen Iverson,Philadelphia,2010,Yes
+Dwyane Wade,Miami,2010,Yes
+Joe Johnson,Atlanta,2010,Yes
+Derrick Rose,Chicago,2010,Yes
+Paul Pierce,Boston,2010,Yes
+Rajon Rondo,Boston,2010,Yes
+Gerald Wallace,Charlotte,2010,Yes
+Al Horford,Atlanta,2010,Yes
+Chris Bosh,Toronto,2010,Yes
+David Lee,New York,2010,Yes
+Lebron James,Cleveland,2009,Yes
+Kevin Garnett,Boston,2009,Yes
+Dwight Howard,Orlando,2009,Yes
+Allen Iverson,Detroit,2009,Yes
+Dwyane Wade,Miami,2009,Yes
+Joe Johnson,Atlanta,2009,Yes
+Devin Harris,New Jersey,2009,Yes
+Paul Pierce,Boston,2009,Yes
+Ray Allen,Boston,2009,Yes
+Rashard Lewis,Orlando,2009,Yes
+Danny Granger,Indiana,2009,Yes
+Mo Williams,Cleveland,2009,Yes
+Chris Bosh,Toronto,2009,Yes
+Jameer Nelson,Orlando,2009,Yes
+Jason Kidd,New Jersey,2008,Yes
+Dwyane Wade,Miami,2008,Yes
+Chris Bosh,Toronto,2008,Yes
+Lebron James,Cleveland,2008,Yes
+Dwight Howard,Orlando,2008,Yes
+Ray Allen,Boston,2008,Yes
+Chauncey Billups,Detroit,2008,Yes
+Richard Hamilton,Detroit,2008,Yes
+Rasheed Wallace,Detroit,2008,Yes
+Joe Johnson,Atlanta,2008,Yes
+Paul Pierce,Boston,2008,Yes
+Antawn Jamison,Washington,2008,Yes
+Caron Butler,Washington,2008,Yes
+Kevin Garnett,Boston,2008,Yes
+Gilbert Arenas,Washington,2007,Yes
+Dwyane Wade,Miami,2007,Yes
+Chris Bosh,Toronto,2007,Yes
+Lebron James,Cleveland,2007,Yes
+Shaquille O'Neal,Miami,2007,Yes
+Jermaine O'Neal,Indiana,2007,Yes
+Dwight Howard,Orlando,2007,Yes
+Joe Johnson,Atlanta,2007,Yes
+Chauncey Billups,Detroit,2007,Yes
+Vince Carter,New Jersey,2007,Yes
+Caron Butler,Washington,2007,Yes
+Richard Hamilton,Detroit,2007,Yes
+Jason Kidd,New Jersey,2007,Yes
+Allen Iverson,Philadelphia,2006,Yes
+Dwyane Wade,Miami,2006,Yes
+Lebron James,Cleveland,2006,Yes
+Vince Carter,New Jersey,2006,Yes
+Shaquille O'Neal,Miami,2006,Yes
+Ben Wallace,Detroit,2006,Yes
+Rasheed Wallace,Detroit,2006,Yes
+Chris Bosh,Toronto,2006,Yes
+Paul Pierce,Boston,2006,Yes
+Chauncey Billups,Detroit,2006,Yes
+Richard Hamilton,Detroit,2006,Yes
+Gilbert Arenas,Washington,2006,Yes
+Jermaine O'Neal,Indiana,2006,Yes
+Allen Iverson,Philadelphia,2005,Yes
+Lebron James,Cleveland,2005,Yes
+Vince Carter,New Jersey,2005,Yes
+Grant Hill,Orlando,2005,Yes
+Shaquille O'Neal,Miami,2005,Yes
+Dwyane Wade,Miami,2005,Yes
+Jermaine O'Neal,Indiana,2005,Yes
+Zydrunas Ilgauskas,Cleveland,2005,Yes
+Ben Wallace,Detroit,2005,Yes
+Gilbert Arenas,Washington,2005,Yes
+Paul Pierce,Boston,2005,Yes
+Antawn Jamison,Washington,2005,Yes
+Vince Carter,Toronto,2004,Yes
+Jermaine O'Neal,Indiana,2004,Yes
+Ben Wallace,Detroit,2004,Yes
+Allen Iverson,Philadelphia,2004,Yes
+Tracy McGrady,Orlando,2004,Yes
+Ron Artest,Indiana,2004,Yes
+Jamaal Magloire,New Orleans,2004,Yes
+Jason Kidd,New Jersey,2004,Yes
+Kenyon Martin,New Jersey,2004,Yes
+Paul Pierce,Boston,2004,Yes
+Baron Davis,New Orleans,2004,Yes
+Michael Redd,Milwaukee,2004,Yes
+Allen Iverson,Philadelphia,2003,Yes
+Tracy McGrady,Orlando,2003,Yes
+Michael Jordan,Washington,2003,Yes
+Jermaine O'Neal,Indiana,2003,Yes
+Ben Wallace,Detroit,2003,Yes
+Jason Kidd,New Jersey,2003,Yes
+Vince Carter,Toronto,2003,Yes
+Paul Pierce,Boston,2003,Yes
+Brad Miller,Indiana,2003,Yes
+Jamal Mashburn,New Orleans,2003,Yes
+Antoine Walker,Boston,2003,Yes
+Zydrunas Ilgauskas,Cleveland,2003,Yes
+Allen Iverson,Philadelphia,2002,Yes
+Jason Kidd,New Jersey,2002,Yes
+Michael Jordan,Washington,2002,Yes
+Antoine Walker,Boston,2002,Yes
+Dikembe Mutombo,Philadelphia,2002,Yes
+Ray Allen,Milwaukee,2002,Yes
+Paul Pierce,Boston,2002,Yes
+Tracy McGrady,Orlando,2002,Yes
+Shareef A-Rahim,Atlanta,2002,Yes
+Jermaine O'Neal,Indiana,2002,Yes
+Alonzo Mourning,Miami,2002,Yes
+Baron Davis,Charlotte,2002,Yes
+Vince Carter,Toronto,2002,Yes
+Vince Carter,Toronto,2001,Yes
+Anthony Mason,Miami,2001,Yes
+Antonio Davis,Toronto,2001,Yes
+Allen Iverson,Philadelphia,2001,Yes
+Tracy McGrady,Orlando,2001,Yes
+Stephon Marbury,New Jersey,2001,Yes
+Ray Allen,Milwaukee,2001,Yes
+Glenn Robinson,Milwaukee,2001,Yes
+Allan Houston,New York,2001,Yes
+Jerry Stackhouse,Detroit,2001,Yes
+Latrell Sprewell,New York,2001,Yes
+Dikembe Mutombo,Atlanta,2001,Yes
+Grant Hill,Orlando,2001,Yes
+Alonzo Mourning,Miami,2001,Yes
+Theo Ratliff,Philadelphia,2001,Yes
+Vince Carter,Toronto,2000,Yes
+Grant Hill,Detroit,2000,Yes
+Alonzo Mourning,Miami,2000,Yes
+Eddie Jones,Charlotte,2000,Yes
+Allen Iverson,Philadelphia,2000,Yes
+Allan Houston,New York,2000,Yes
+Glenn Robinson,Milwaukee,2000,Yes
+Ray Allen,Milwaukee,2000,Yes
+Dikembe Mutombo,Atlanta,2000,Yes
+Dale Davis,Indiana,2000,Yes
+Jerry Stackhouse,Detroit,2000,Yes
+Reggie Miller,Indiana,2000,Yes
+Grant Hill,Detroit,1998,Yes
+Shawn Kemp,Cleveland,1998,Yes
+Dikembe Mutombo,Atlanta,1998,Yes
+Michael Jordan,Chicago,1998,Yes
+Anfernee Hardaway,Orlando,1998,Yes
+Tim Hardaway,Miami,1998,Yes
+Jayson Williams,New Jersey,1998,Yes
+Rik Smits,Indiana,1998,Yes
+Reggie Miller,Indiana,1998,Yes
+Glen Rice,Charlotte,1998,Yes
+Steve Smith,Atlanta,1998,Yes
+Antoine Walker,Boston,1998,Yes
+Scottie Pippen,Chicago,1997,Yes
+Grant Hill,Detroit,1997,Yes
+Dikembe Mutombo,Atlanta,1997,Yes
+Michael Jordan,Chicago,1997,Yes
+Penny Hardaway,Orlando,1997,Yes
+Vin Baker,Milwaukee,1997,Yes
+Terrell Brandon,Cleveland,1997,Yes
+Chris Webber,Washington,1997,Yes
+Tim Hardaway,Miami,1997,Yes
+Glen Rice,Charlotte,1997,Yes
+Joe Dumars,Detroit,1997,Yes
+Christian Laettner,Atlanta,1997,Yes
+Alonzo Mourning,Miami,1997,Yes
+Patrick Ewing,New York,1997,Yes
+Scottie Pippen,Chicago,1996,Yes
+Grant Hill,Detroit,1996,Yes
+Shaquille O'Neal,Orlando,1996,Yes
+Michael Jordan,Chicago,1996,Yes
+Anfernee Hardaway,Orlando,1996,Yes
+Patrick Ewing,New York,1996,Yes
+Reggie Miller,Indiana,1996,Yes
+Vin Baker,Milwaukee,1996,Yes
+Terrell Brandon,Cleveland,1996,Yes
+Glen Rice,Charlotte,1996,Yes
+Juwan Howard,Washington,1996,Yes
+Alonzo Mourning,Miami,1996,Yes
+Grant Hill,Detroit,1995,Yes
+Scottie Pippen,Chicago,1995,Yes
+Shaquille O'Neal,Orlando,1995,Yes
+Anfernee Hardaway,Orlando,1995,Yes
+Reggie Miller,Indiana,1995,Yes
+Joe Dumars,Detroit,1995,Yes
+Patrick Ewing,New York,1995,Yes
+Dana Barros,Philadelphia,1995,Yes
+Larry Johnson,Charlotte,1995,Yes
+Alonzo Mourning,Charlotte,1995,Yes
+Vin Baker,Milwaukee,1995,Yes
+Tyrone Hill,Cleveland,1995,Yes
+Scottie Pippen,Chicago,1994,Yes
+Derrick Coleman,New Jersey,1994,Yes
+Shaquille O'Neal,Orlando,1994,Yes
+Kenny Anderson,New Jersey,1994,Yes
+B.J. Armstrong,Chicago,1994,Yes
+John Starks,New York,1994,Yes
+Mark Price,Cleveland,1994,Yes
+Patrick Ewing,New York,1994,Yes
+Charles Oakley,New York,1994,Yes
+Dominique Wilkins,Atlanta,1994,Yes
+Mookie Blaylock,Atlanta,1994,Yes
+Horace Grant,Chicago,1994,Yes
+Alonzo Mourning,Charlotte,1994,Yes
+Larry Johnson,Charlotte,1993,Yes
+Scottie Pippen,Chicago,1993,Yes
+Shaquille O'Neal,Orlando,1993,Yes
+Isiah Thomas,Detroit,1993,Yes
+Michael Jordan,Chicago,1993,Yes
+Larry Nance,Cleveland,1993,Yes
+Patrick Ewing,New York,1993,Yes
+Joe Dumars,Detroit,1993,Yes
+Mark Price,Cleveland,1993,Yes
+Detlef Schrempf,Indiana,1993,Yes
+Brad Daugherty,Cleveland,1993,Yes
+Dominique Wilkins,Atlanta,1993,Yes
+Scottie Pippen,Chicago,1992,Yes
+Charles Barkley,Philadelphia,1992,Yes
+Patrick Ewing,New York,1992,Yes
+Isiah Thomas,Detroit,1992,Yes
+Michael Jordan,Chicago,1992,Yes
+Mark Price,Cleveland,1992,Yes
+Brad Daugherty,Cleveland,1992,Yes
+Joe Dumars,Detroit,1992,Yes
+Dennis Rodman,Detroit,1992,Yes
+Reggie Lewis,Boston,1992,Yes
+Kevin Willis,Atlanta,1992,Yes
+Michael Adams,Washington,1992,Yes
+Larry Bird,Boston,1992,Yes
+Dominique Wilkins,Atlanta,1992,Yes
+Bernard King,Washington,1991,Yes
+Charles Barkley,Philadelphia,1991,Yes
+Patrick Ewing,New York,1991,Yes
+Joe Duamrs,Detroit,1991,Yes
+Michael Jordan,Chicago,1991,Yes
+Alvin Robertson,Milwaukee,1991,Yes
+Dominique Wilkins,Atlanta,1991,Yes
+Robert Parish,Boston,1991,Yes
+Kevin McHale,Boston,1991,Yes
+Ricky Pierce,Milwaukee,1991,Yes
+Brad Daugherty,Cleveland,1991,Yes
+Hersey Hawkins,Philadelphia,1991,Yes
+Larry Bird,Boston,1991,Yes
+Isiah Thomas,Detroit,1991,Yes
+Charles Barkley,Philadelphia,1990,Yes
+Larry Bird,Boston,1990,Yes
+Patrick Ewing,New York,1990,Yes
+Michael Jordan,Chicago,1990,Yes
+Isiah Thomas,Detroit,1990,Yes
+Kevin McHale,Boston,1990,Yes
+Joe Dumars,Detroit,1990,Yes
+Robert Parish,Boston,1990,Yes
+Reggie Miller,Indiana,1990,Yes
+Dominique Wilkins,Atlanta,1990,Yes
+Dennis Rodman,Detroit,1990,Yes
+Scottie Pippen,Chicago,1990,Yes
+Charles Barkley,Philadelphia,1989,Yes
+Dominique Wilkins,Atlanta,1989,Yes
+Moses Malone,Atlanta,1989,Yes
+Michael Jordan,Chicago,1989,Yes
+Isiah Thomas,Detroit,1989,Yes
+Patrick Ewing,New York,1989,Yes
+Terry Cummings,Milwaukee,1989,Yes
+Larry Nance,Cleveland,1989,Yes
+Mark Price,Cleveland,1989,Yes
+Mark Jackson,New York,1989,Yes
+Brad Daugherty,Cleveland,1989,Yes
+Kevin McHale,Boston,1989,Yes
+Larry Bird,Boston,1988,Yes
+Dominique Wilkins,Atlanta,1988,Yes
+Moses Malone,Washington,1988,Yes
+Isiah Thomas,Detroit,1988,Yes
+Michael Jordan,Chicago,1988,Yes
+Patrick Ewing,New York,1988,Yes
+Glenn Rivers,Atlanta,1988,Yes
+Kevin McHale,Boston,1988,Yes
+Charles Barkley,Philadelphia,1988,Yes
+Danny Ainge,Boston,1988,Yes
+Brad Daugherty,Cleveland,1988,Yes
+Maurcie Cheeks,Philadelphia,1988,Yes
+Larry Bird,Boston,1987,Yes
+Dominique Wilkins,Atlanta,1987,Yes
+Moses Malone,Washington,1987,Yes
+Julius Erving,Philadelphia,1987,Yes
+Michael Jordan,Chicago,1987,Yes
+Isiah Thomas,Detroit,1987,Yes
+Kevin McHale,Boston,1987,Yes
+Bill Laimbeer,Detroit,1987,Yes
+Jeff Malone,Washington,1987,Yes
+Charles Barkley,Philadelphia,1987,Yes
+Maurice Cheeks,Philadelphia,1987,Yes
+Robert Parish,Boston,1987,Yes
+Julius Erving,Philadelphia,1986,Yes
+Larry Bird,Boston,1986,Yes
+Moses Malone,Philadelphia,1986,Yes
+Sidney Moncrief,Milwaukeee,1986,Yes
+Isiah Thomas,Detroit,1986,Yes
+Buck Williams,New Jersey,1986,Yes
+Jeff Malone,Washington,1986,Yes
+Kevin McHale,Boston,1986,Yes
+Maurice Cheeks,Philadelphia,1986,Yes
+Robert Parish,Boston,1986,Yes
+Dominique Wilkins,Atlanta,1986,Yes
+Patrick Ewing,New York,1986,Yes
+Michael Jordan,Chicago,1986,Yes
+Julius Erving,Philadelphia,1985,Yes
+Larry Bird,Boston,1985,Yes
+Moses Malone,Philadelphia,1985,Yes
+Isiah Thomas,Detroit,1985,Yes
+Michael Jordan,Chicago,1985,Yes
+Michael Ray Richardson,New Jersey,1985,Yes
+Robert Parish,Boston,1985,Yes
+Bernard King,New York,1985,Yes
+Sidney Moncrief,Milwaukee,1985,Yes
+Terry Cummings,Milwaukee,1985,Yes
+Dennis Johnson,Boston,1985,Yes
+Bill Laimbeer,Detroit,1985,Yes
+Stephen Curry,Golden State,2017,Yes
+James Harden,Houston,2017,Yes
+Kevin Durant,Golden State,2017,Yes
+Kawhi Leonard,San Antonio,2017,Yes
+Anthony Davis,New Orleans,2017,Yes
+Russell Westbrook,Oklahoma,2017,Yes
+Klay Thompson,Golden State,2017,Yes
+Gordon Hayward,Utah,2017,Yes
+DeMarcus Cousins,Sacramento,2017,Yes
+Draymond Green,Golden State,2017,Yes
+DeAndre Jordan,LA Clippers,2017,Yes
+Marc Gasol,Memphis,2017,Yes
+Stephen Curry,Golden State,2017,Yes
+Russell Westbrook,Oklahoma,2017,Yes
+Kobe Bryant,LA Lakers,2017,Yes
+Kevin Durant,Oklahoma,2017,Yes
+Kawhi Leonard,San Antonio,2017,Yes
+Chris Paul,LA Clippers,2017,Yes
+James Harden,Houston,2017,Yes
+Klay Thompson,Golden State,2017,Yes
+Draymond Green,Golden State,2017,Yes
+Anthony Davis,New Orleans,2017,Yes
+LaMarcus Aldridge,San Antonio,2017,Yes
+DeMarcus Cousins,Sacramento,2017,Yes
+Stephen Curry,Golden State,2015,Yes
+Kobe Bryant,LA Lakers,2015,Yes
+Anthony Davis,New Orleans,2015,Yes
+Blake Griffin,LA Clippers,2015,Yes
+Marc Gasol,Memphis,2015,Yes
+LaMarcus Aldridge,Portland,2015,Yes
+Tim Duncan,San Antonio,2015,Yes
+James Harden,Houston,2015,Yes
+Kevin Durant,Oklahoma,2015,Yes
+Chris Paul,LA Clippers,2015,Yes
+Russell Westbrook,Oklahoma,2015,Yes
+Klay Thompson,Golden State,2015,Yes
+DeMarcus Cousins,Sacramento,2015,Yes
+Damian Lillard,Portland,2015,Yes
+Dirk Nowitzki,Dallas,2015,Yes
+Stephen Curry,Golden State,2014,Yes
+Kobe Bryant,LA Lakers,2014,Yes
+Kevin Durant,Oklahoma,2014,Yes
+Blake Griffin,LA Clippers,2014,Yes
+Kevin Love,Minnesota,2014,Yes
+Chris Paul,LA Clippers,2014,Yes
+James Harden,Houston,2014,Yes
+LaMarcus Aldridge,Portland,2014,Yes
+Dwight Howard,LA Lakers,2014,Yes
+Tony Parker,San Antonio,2014,Yes
+Damian Lillard,Portland,2014,Yes
+Dirk Nowitzki,Dallas,2014,Yes
+Anthony Davis,New Orleans,2014,Yes
+Chris Paul,LA Clippers,2013,Yes
+Kobe Bryant,LA Lakers,2013,Yes
+Kevin Durant,Oklahoma,2013,Yes
+Blake Griffin,LA Clippers,2013,Yes
+Dwight Howard,LA Lakers,2013,Yes
+LaMarcus Aldridge,Portland,2013,Yes
+Tim Duncan,San Antonio,2013,Yes
+James Harden,Houston,2013,Yes
+David Lee,Golden State,2013,Yes
+Tony Parker,San Antonio,2013,Yes
+Zach Randolph,Memphis,2013,Yes
+Russell Westbrook,Oklahoma,2013,Yes
+Kevin Durant,Oklahoma,2012,Yes
+Blake Griffin,LA Clippers,2012,Yes
+Andrew Bynum,LA Lakers,2012,Yes
+Kobe Bryant,LA Lakers,2012,Yes
+Chris Paul,LA Clippers,2012,Yes
+Kevin Love,Minnesota,2012,Yes
+Russell Westbrook,Oklahoma,2012,Yes
+Dirk Nowtzki,Dallas,2012,Yes
+Marc Gasol,Memphis,2012,Yes
+LaMarcus Aldridge,Portland,2012,Yes
+Tony Parker,San Antonio,2012,Yes
+Steve Nash,Phoenix,2012,Yes
+Kevin Durant,Oklahoma,2011,Yes
+Carmelo Anthony,Denver,2011,Yes
+Yao Ming,Houston,2011,Yes
+Kobe Bryant,LA Lakers,2011,Yes
+Chris Paul,New Orleans,2011,Yes
+Pau Gasol,LA Lakers,2011,Yes
+Russell Westbrook,Oklahoma,2011,Yes
+Dirk Nowitzki,Dallas,2011,Yes
+Tim Duncan,San Antonio,2011,Yes
+Manu Ginobili,San Antonio,2011,Yes
+Deron Williams,Utah,2011,Yes
+Blake Griffin,LA Clippers,2011,Yes
+Kevin Love,Minnesota,2011,Yes
+Amare Stoudemire,Phoenix,2010,Yes
+Tim Duncan,San Antonio,2010,Yes
+Carmelo Anthony,Denver,2010,Yes
+Kobe Bryant,LA Lakers,2010,Yes
+Steve Nash,Phoenix,2010,Yes
+Pau Gasol,LA Lakers,2010,Yes
+Kevin Durant,Oklahoma,2010,Yes
+Dirk Nowitzki,Dallas,2010,Yes
+Brandon Roy,Portland,2010,Yes
+Chris Paul,New Orleans,2010,Yes
+Deron Williams,Utah,2010,Yes
+Zach Randolph,Memphis,2010,Yes
+Chauncey Billups,Denver,2010,Yes
+Chris Kaman,LA Clippers,2010,Yes
+Jason Kidd,Dallas,2010,Yes
+Amare Stoudemire,Phoenix,2009,Yes
+Tim Duncan,San Antonio,2009,Yes
+Yao Ming,Houston,2009,Yes
+Kobe Bryant,LA Lakers,2009,Yes
+Chris Paul,New Orleans,2009,Yes
+Pau Gasol,LA Lakers,2009,Yes
+Shaquille O'Neal,Phoenix,2009,Yes
+Dirk Nowitzki,Dallas,2009,Yes
+Brandon Roy,Portland,2009,Yes
+Chauncey Billups,Denver,2009,Yes
+Tony Parker,San Antonio,2009,Yes
+David West,New Orleans,2009,Yes
+Allen Iverson,Denver,2008,Yes
+Kobe Bryant,Lakers,2008,Yes
+Tim Duncan,San Antonio,2008,Yes
+Carmelo Anthony,Denver,2008,Yes
+Yao Ming,Houston,2008,Yes
+Brandon Roy,Portland,2008,Yes
+Chris Paul,New Orleans,2008,Yes
+Dirk Nowitzki,Dallas,2008,Yes
+Amare Stoudemire,Phoenix,2008,Yes
+Steve Nash,Phoenix,2008,Yes
+Carlos Boozer,Utah,2008,Yes
+David West,New Orleans,2008,Yes
+Kobe Bryant,Lakers,2007,Yes
+Tracy McGrady,Houston,2007,Yes
+Kevin Garnett,Minnesota,2007,Yes
+Dirk Nowitzki,Dallas,2007,Yes
+Tim Duncan,San Antonio,2007,Yes
+Carmelo Anthony,Denver,2007,Yes
+Tony Parker,San Antonio,2007,Yes
+Shawn Marion,Phoenix,2007,Yes
+Ray Allen,Seattle,2007,Yes
+Amare Stoudemire,Phoenix,2007,Yes
+Josh Howard,Dallas,2007,Yes
+Mehmet Okur,Utah,2007,Yes
+Yao Ming,Houston,2007,Yes
+Carlos Boozer,Utah,2007,Yes
+Allen Iverson,Denver,2007,Yes
+Steve Nash,Phoenix,2007,Yes
+Kobe Bryant,Lakers,2006,Yes
+Steve Nash,Phoenix,2006,Yes
+Tim Duncan,San Antonio,2006,Yes
+Tracy McGrady,Houston,2006,Yes
+Yao Ming,Houston,2006,Yes
+Tony Parker,San Antonio,2006,Yes
+Kevin Garnett,Minnesota,2006,Yes
+Ray Allen,Seattle,2006,Yes
+Dirk Nowitzki,Dallas,2006,Yes
+Shawn Marion,Phoenix,2006,Yes
+Elton Brand,Clippers,2006,Yes
+Pau Gasol,Memphis,2006,Yes
+Kobe Bryant,Lakers,2005,Yes
+Tracy McGrady,Houston,2005,Yes
+Kevin Garnett,Minnesota,2005,Yes
+Tim Duncan,San Antonio,2005,Yes
+Yao Ming,Houston,2005,Yes
+Ray Allen,Seattle,2005,Yes
+Manu Ginobili,San Antonio,2005,Yes
+Dirk Nowitzki,Dallas,2005,Yes
+Amare Stoudemire,Phoenix,2005,Yes
+Steve Nash,Phoenix,2005,Yes
+Shawn Marion,Phoenix,2005,Yes
+Rashard Lewis,Seattle,2005,Yes
+Tim Duncan,San Antonio,2004,Yes
+Kevin Garnett,Minnesota,2004,Yes
+Yao Ming,Houston,2004,Yes
+Kobe Bryant,Lakers,2004,Yes
+Steve Francis,Houston,2004,Yes
+Ray Allen,Seattle,2004,Yes
+Shaquille O'Neal,Lakers,2004,Yes
+Peja Stojakovic,Sacramento,2004,Yes
+Sam Cassell,Minnesota,2004,Yes
+Dirk Nowitzki,Dallas,2004,Yes
+Brad Miller,Sacramento,2004,Yes
+Andrei Kirilenko,Utah,2004,Yes
+Kobe Bryant,Lakers,2003,Yes
+Steve Francis,Houston,2003,Yes
+Kevin Garnett,Minnesota,2003,Yes
+Tim Duncan,San Antonio,2003,Yes
+Yao Ming,Houston,2003,Yes
+Shaquille O'Neal,Lakers,2003,Yes
+Shawn Marion,Phoenix,2003,Yes
+Steve Nash,Dallas,2003,Yes
+Dirk Nowitzki,Dallas,2003,Yes
+Gary Payton,Seattle,2003,Yes
+Stephon Marbury,Phoenix,2003,Yes
+Peja Stojakovic,Sacramento,2003,Yes
+Chris Webber,Sacramento,2003,Yes
+Kobe Bryant,Lakers,2002,Yes
+Steve Francis,Houston,2002,Yes
+Kevin Garnett,Minnesota,2002,Yes
+Chris Webber,Sacramento,2002,Yes
+Tim Duncan,San Antonio,2002,Yes
+Steve Nash,Dallas,2002,Yes
+Dirk Nowitzki,Dallas,2002,Yes
+Gary Payton,Seattle,2002,Yes
+Elton Brand,Clippers,2002,Yes
+Peja Stojakovic,Sacramento,2002,Yes
+Wally Szczerbiak,Minnesota,2002,Yes
+Shaquille O'Neal,Lakers,2002,Yes
+Tim Duncan,San Antonio,2001,Yes
+Chris Webber,Sacramento,2001,Yes
+Kevin Garnett,Minnesota,2001,Yes
+Kobe Bryant,Lakers,2001,Yes
+Jason Kidd,Phoenix,2001,Yes
+Michael Finley,Dallas,2001,Yes
+Gary Payton,Seattle,2001,Yes
+Rasheed Wallace,Portland,2001,Yes
+David Robinson,San Antonio,2001,Yes
+Antonio McDyess,Denver,2001,Yes
+Vlade Divac,Sacramento,2001,Yes
+Karl Malone,Utah,2001,Yes
+Shaquille O'Neal,Lakers,2001,Yes
+Kevin Garnett,Minnesota,2000,Yes
+Tim Duncan,San Antonio,2000,Yes
+Shaquille O'Neal,Lakers,2000,Yes
+Kobe Bryant,Lakers,2000,Yes
+Jason Kidd,Phoenix,2000,Yes
+Gary Payton,Seattle,2000,Yes
+Chris Webber,Sacramento,2000,Yes
+Rasheed Wallace,Portland,2000,Yes
+Michael Finley,Dallas,2000,Yes
+David Robinson,San Antonio,2000,Yes
+John Stockton,Utah,2000,Yes
+Karl Malone,Utah,2000,Yes
+Karl Malone,Utah,1998,Yes
+Kevin Garnett,Minnesota,1998,Yes
+Shaquille O'Neal,Lakers,1998,Yes
+Kobe Bryant,Lakers,1998,Yes
+Gary Payton,Seattle,1998,Yes
+Vin Baker,Seattle,1998,Yes
+Eddie Jones,Lakers,1998,Yes
+David Robinson,San Antonio,1998,Yes
+Mitch Richmond,Sacramento,1998,Yes
+Jason Kidd,Phoenix,1998,Yes
+Tim Duncan,San Antonio,1998,Yes
+Nick Van Exel,Lakers,1998,Yes
+Shawn Kemp,Seattle,1997,Yes
+Karl Malone,Utah,1997,Yes
+Hakeem Olajuwon,Houston,1997,Yes
+Gary Payton,Seattle,1997,Yes
+John Stockton,Utah,1997,Yes
+Mitch Richmond,Sacramento,1997,Yes
+Tom Gugliotta,Minnesota,1997,Yes
+Latrell Sprewell,Golden State,1997,Yes
+Eddie Jones,Lakers,1997,Yes
+Kevin Garnett,Minnesota,1997,Yes
+Detlef Schrempf,Seattle,1997,Yes
+Chris Gatling,Dallas,1997,Yes
+Clyde Drexler,Houston,1997,Yes
+Charles Barkley,Houston,1997,Yes
+Shaquille O'Neal,Lakers,1997,Yes
+Charles Barkley,Phoenix,1996,Yes
+Shawn Kemp,Seattle,1996,Yes
+Hakeem Olajuwon,Houston,1996,Yes
+Clyde Drexler,Houston,1996,Yes
+Jason Kidd,Dallas,1996,Yes
+David Robinson,San Antonio,1996,Yes
+Gary Payton,Seattle,1996,Yes
+Sean Elliott,San Antonio,1996,Yes
+Karl Malone,Utah,1996,Yes
+Mitch Richmond,Sacramento,1996,Yes
+Dikembe Mutombo,Denver,1996,Yes
+John Stockton,Utah,1996,Yes
+Charles Barkley,Phoenix,1995,Yes
+Shawn Kemp,Seattle,1995,Yes
+Hakeem Olajuwon,Houston,1995,Yes
+Dan Majerle,Phoenix,1995,Yes
+Latrell Sprewell,Golden State,1995,Yes
+Gary Payton,Seattle,1995,Yes
+Mitch Richmond,Sacramento,1995,Yes
+David Robinson,San Antonio,1995,Yes
+Detlef Schrempf,Seattle,1995,Yes
+Dikembe Mutombo,Denver,1995,Yes
+Karl Malone,Utah,1995,Yes
+John Stockton,Utah,1995,Yes
+Cedric Ceballos,Lakers,1995,Yes
+Karl Malone,Utah,1994,Yes
+Shawn Kemp,Seattle,1994,Yes
+Hakeem Olajuwon,Houston,1994,Yes
+Mitch Richmond,Sacramento,1994,Yes
+Clyde Drexler,Portland,1994,Yes
+John Stockton,Utah,1994,Yes
+David Robinson,San Antonio,1994,Yes
+Kevin Johnson,Phoenix,1994,Yes
+Clifford Robinson,Portland,1994,Yes
+Danny Manning,Clippers,1994,Yes
+Gary Payton,Seattle,1994,Yes
+Latrell Sprewell,Golden State,1994,Yes
+Dan Majerle,Phoenix,1994,Yes
+Charles Barkley,Phoenix,1993,Yes
+Karl Malone,Utah,1993,Yes
+David Robinson,San Antonio,1993,Yes
+John Stockton,Utah,1993,Yes
+Clyde Drexler,Portland,1993,Yes
+Dan Majerle,Phoenix,1993,Yes
+Shawn Kemp,Seattle,1993,Yes
+Danny Manning,Clippers,1993,Yes
+Hakeem Olajuwon,Houston,1993,Yes
+Terry Porter,Portland,1993,Yes
+Sean Elliot,San Antonio,1993,Yes
+Chris Mullin,Golden State,1993,Yes
+Tim Hardaway,Golden State,1993,Yes
+Mitch Richmond,Sacramento,1993,Yes
+Karl Malone,Utah,1992,Yes
+Chris Mullin,Golden State,1992,Yes
+David Robinson,San Antonio,1992,Yes
+Clyde Drexler,Portland,1992,Yes
+Magic Johnson,Lakers,1992,Yes
+Tim Hardaway,Golden State,1992,Yes
+Hakeem Olajuwon,Houston,1992,Yes
+Jeff Hornacek,Phoenix,1992,Yes
+Otis Thorpe,Houston,1992,Yes
+James Worthy,Lakers,1992,Yes
+John Stockton,Utah,1992,Yes
+Dan Majerle,Phoenix,1992,Yes
+Dikembe Mutombo,Denver,1992,Yes
+Karl Malone,Utah,1991,Yes
+Chris Mullin,Golden State,1991,Yes
+David Robinson,San Antonio,1991,Yes
+Magic Johnson,Lakers,1991,Yes
+Kevin Johnson,Phoenix,1991,Yes
+Kevin Duckworth,Portland,1991,Yes
+Clyde Drexler,Portland,1991,Yes
+James Worthy,Lakers,1991,Yes
+Terry Porter,Portland,1991,Yes
+Tom Chambers,Phoenix,1991,Yes
+John Stockton,Utah,1991,Yes
+Tim Hardaway,Golden State,1991,Yes
+A.C. Green,Lakers,1990,Yes
+James Worthy,Lakers,1990,Yes
+Hakeem Olajuwon,Houston,1990,Yes
+Magic Johnson,Lakers,1990,Yes
+John Stockton,Utah,1990,Yes
+Tom Chambers,Phoenix,1990,Yes
+Clyde Drexler,Portland,1990,Yes
+David Robinson,San Antonio,1990,Yes
+Chris Mullin,Golden State,1990,Yes
+Kevin Johnson,Phoenix,1990,Yes
+Rolando Blackman,Dallas,1990,Yes
+Lafayette Lever,Denver,1990,Yes
+Karl Malone,Utah,1990,Yes
+Alex English,Denver,1989,Yes
+Karl Malone,Utah,1989,Yes
+Hakeem Olajuwon,Houston,1989,Yes
+Dale Ellis,Seattle,1989,Yes
+John Stockton,Utah,1989,Yes
+Kareem Abdul-Jabbar,Lakers,1989,Yes
+Clyde Drexler,Portland,1989,Yes
+Tom Chambers,Phoenix,1989,Yes
+Chris Mullin,Golden State,1989,Yes
+James Worthy,Lakers,1989,Yes
+Mark Eaton,Utah,1989,Yes
+Kevin Duckworth,Portland,1989,Yes
+Magic Johnson,Lakers,1989,Yes
+Alex English,Denver,1988,Yes
+Karl Malone,Utah,1988,Yes
+Hakeem Olajuwon,Houston,1988,Yes
+Magic Johnson,Lakers,1988,Yes
+Lafayette Lever,Denver,1988,Yes
+Mark Aguirre,Dallas,1988,Yes
+Kareem Abdul-Jabbar,Lakers,1988,Yes
+Alvin Robertson,San Antonio,1988,Yes
+Xavier McDaniel,Seattle,1988,Yes
+Clyde Drexler,Portland,1988,Yes
+James Worthy,Lakers,1988,Yes
+James Donaldson,Dallas,1988,Yes
+Steve Johnson,Portland,1988,Yes
+Tom Chambers,Seattle,1987,Yes
+James Worthy,Lakers,1987,Yes
+Hakeem Olajuwon,Houston,1987,Yes
+Magic Johnson,Lakers,1987,Yes
+Alvin Robertson,San Antonio,1987,Yes
+Mark Aguirre,Dallas,1987,Yes
+Kareem Abdul-Jabbar,Lakers,1987,Yes
+Walter Davis,Phoenix,1987,Yes
+Eric Floyd,Golden State,1987,Yes
+Joe Barry Carroll,Golden State,1987,Yes
+Rolando Blackman,Dallas,1987,Yes
+Alex English,Denver,1987,Yes
+Ralph Sampson,Houston,1987,Yes
+James Worthy,Lakers,1986,Yes
+Ralph Sampson,Houston,1986,Yes
+Kareem Abdul-Jabbar,Lakers,1986,Yes
+Alvin Robertson,San Antonio,1986,Yes
+Magic Johnson,Lakers,1986,Yes
+Rolando Blackman,Dallas,1986,Yes
+Artis Gilmore,San Antonio,1986,Yes
+Alex English,Denver,1986,Yes
+Adrian Dantley,Utah,1986,Yes
+Clyde Drexler,Portland,1986,Yes
+Hakeem Olajuwon,Houston,1986,Yes
+Marques Johnson,Clippers,1986,Yes
+Adrian Dantley,Utah,1985,Yes
+Ralph Sampson,Houston,1985,Yes
+Kareem Abdul-Jabbar,Lakers,1985,Yes
+Magic Johnson,Lakers,1985,Yes
+George Gervin,San Antonio,1985,Yes
+Alex English,Denver,1985,Yes
+Norm Nixon,Clippers,1985,Yes
+Larry Nance,Phoenix,1985,Yes
+Rolando Blackman,Dallas,1985,Yes
+Jack Sikma,Seattle,1985,Yes
+Calvin Natt,Denver,1985,Yes
+Hakeem Olajuwon,Houston,1985,Yes
